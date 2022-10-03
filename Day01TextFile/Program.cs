@@ -34,8 +34,7 @@ namespace Day01TextFile
 
             
                 {
-                    string[] namesArray = { name, name, name };
-                    File.WriteAllLines(filePath, namesArray);
+                    string[] namesArray = { name, name, name }; 
                 }
                 {
                     string filecontents = $"{name}\n{name}\n{name}\n";
