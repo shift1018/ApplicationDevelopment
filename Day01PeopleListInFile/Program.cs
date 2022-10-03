@@ -9,7 +9,7 @@ namespace Day01PeopleListInFile
 {
     internal class Program
     {
-        const string DataFileName = @"..\..\people.txt";
+        const string DataFileName = @"C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01PeopleListInFile\people.txt";
 
         static List<Person> People = new List<Person>();
 

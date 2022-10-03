@@ -45,14 +45,19 @@ namespace Day01PeopleListInFile
 
         private string _city;
 
-        public string City
-        {
-            get { return _city; }
-        
-            set{
-                if (!Regex.IsMatch(value, @"^[^;](2,100)$"))//, RegexOptions.IgnoreCase))
+    
+        public string City // City 2-100 characters long, not containing semicolons
+        { // property
+            get
+            {
+                return _city;
+            }
+            set
+            {
+                //if (value.Length < 2 || value.Length > 100 || value.Contains(";"))
+                if (!Regex.IsMatch(value, @"^[^;]{2,100}$")) //, RegexOptions.IgnoreCase))
                 {
-                    throw new ArgumentException("City must be 2-100 characters long, no semicolons");
+                    throw new ArgumentException("Name must be 2-100 characters long, no semicolons");
                 }
                 _city = value;
             }
