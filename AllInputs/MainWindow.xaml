@@ -1,0 +1,43 @@
+﻿<Window x:Class="AllInputs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AllInputs"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="463">
+    <Grid RenderTransformOrigin="1.017,0.461">
+
+        <Label Content="Name:" HorizontalAlignment="Left" Margin="80,28,0,0" VerticalAlignment="Top" Width="50" Height="26"/>
+        <TextBox HorizontalAlignment="Left" Height="25" Margin="232,29,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="164" TextChanged="TextBox_TextChanged"/>
+
+        <Label Content="Continent of Residence:" HorizontalAlignment="Left" Margin="80,191,0,0" VerticalAlignment="Top" Width="140" Height="26"/>
+        <Label Content="Preferred temp C :" HorizontalAlignment="Left" Margin="80,239,0,0" VerticalAlignment="Top" Width="195" Height="26"/>
+
+
+
+
+
+
+
+        <StackPanel Orientation="Horizontal" Height="40" Margin="69,124,119,270">
+            <Label FontWeight="Bold" Height="36" Content="Pets:"/>
+            <CheckBox Margin="10,10,10,10" Content="cat"/>
+            <CheckBox Margin="10,10,10,10" Content="dog"/>
+            <CheckBox Margin="10,10,10,10" Content="other"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Height="40" Margin="69,79,0,315">
+
+            <Label FontWeight="Bold">Age:</Label>
+            <RadioButton>below18</RadioButton>
+            <RadioButton>18-35</RadioButton>
+            <RadioButton>36 and up</RadioButton>
+        </StackPanel>
+
+        <DockPanel VerticalAlignment="Top" Margin="203,239,38,0">
+            <TextBox Width="19">15</TextBox>
+            <Slider Width="178" RenderTransformOrigin="0.501,0.586"></Slider>
+            <TextBox Width="25">35</TextBox>
+        </DockPanel>
+    </Grid>
+</Window>
