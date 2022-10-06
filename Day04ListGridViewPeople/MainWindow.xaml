@@ -32,6 +32,7 @@
                 <Button Name="BtnAddPerson" Content="Add person" Click="BtnAddPerson_Click" HorizontalAlignment="Left" Margin="79,89,0,0" VerticalAlignment="Top" Width="120"/>
                 <Button Name="BtnDeletePerson" Content="Delete person" HorizontalAlignment="Left" Margin="79,124,0,0" VerticalAlignment="Top" Width="120" Click="BtnDeletePerson_Click"/>
                 <Button Name="BtnUpdatePerson" Content="Update person" HorizontalAlignment="Left" Margin="79,158,0,0" VerticalAlignment="Top" Width="120" Click="BtnUpdatePerson_Click"/>
+                <Button Name="BtnUpdatePerson" Content="Update person" HorizontalAlignment="Left" Margin="79,158,0,0" VerticalAlignment="Top" Width="120" Click="BtnUpdatePerson_Click"/>
             </Grid>
         </Border>
         <ListView Name="LvPeople" SelectionMode="Single" SelectionChanged="LvPeople_SelectionChanged">
