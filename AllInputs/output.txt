@@ -1,0 +1,2 @@
+shu;Below 18;Dogs;America;26
+shu;Below 18;Cats,Dogs;America;26
