@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,8 +14,6 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-
-
 namespace Day04ListGridViewPeople
 {
     /// <summary>
@@ -22,6 +21,8 @@ namespace Day04ListGridViewPeople
     /// </summary>
     public partial class MainWindow : Window
     {
+        const string DataFileName = @"..\..\people.txt";
+
         List<Person> peopleList = new List<Person>();
 
         public MainWindow()
@@ -43,7 +44,13 @@ namespace Day04ListGridViewPeople
 
         private void BtnDeletePerson_Click(object sender, RoutedEventArgs e)
         {
-
+            Person currSelPer = LvPeople.SelectedItem as Person;
+            if (currSelPer == null) return;
+            var result = MessageBox.Show(this, "Are you sure you want to delete this item?", "Confirm deletion", MessageBoxButton.YesNo, MessageBoxImage.Question);
+            if (result == MessageBoxResult.No) return;
+            peopleList.Remove(currSelPer);
+            LvPeople.Items.Refresh();
+            ResetFields();
         }
 
         private void BtnUpdatePerson_Click(object sender, RoutedEventArgs e)
@@ -85,6 +92,9 @@ namespace Day04ListGridViewPeople
         private void LvPeople_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             Person currSelPer = LvPeople.SelectedItem as Person;
+            // Either this or Binding in XAML to enable/disable buttons
+            // BtnUpdatePerson.IsEnabled = (currSelPer != null);
+            // BtnDeletePerson.IsEnabled = (currSelPer != null);
             if (currSelPer == null)
             {
                 ResetFields();
@@ -100,6 +110,78 @@ namespace Day04ListGridViewPeople
         {
 
         }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            LoadDataFromFile();
+            LvPeople.Items.Refresh();
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            SaveDataToFile();
+        }
+
+        private void SaveDataToFile()
+        {
+            List<string> lines = new List<string>();
+            foreach (Person p in peopleList)
+            {
+                lines.Add($"{p.Name};{p.Age}");
+            }
+            try
+            {
+                File.WriteAllLines(DataFileName, lines);
+            }
+            catch (Exception ex) when (ex is IOException || ex is SystemException)
+            {
+                MessageBox.Show(this, "Error writing to file\n" + ex.Message, "File access error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+        private void LoadDataFromFile()
+        {
+            try
+            {
+                if (!File.Exists(DataFileName)) return; // ignore if no file
+                List<string> errorsList = new List<string>();
+                string[] linesArray = File.ReadAllLines(DataFileName); // ex IO/System
+                for (int i = 0; i < linesArray.Length; i++)
+                {
+                    string line = linesArray[i];
+                    var data = line.Split(';');
+                    if (data.Length != 2)
+                    {
+                        errorsList.Add($"Each line must have exactly 2 fields (line {i + 1})" +
+                            "\n" + line);
+                        continue;
+                    }
+                    // TODO: setters would allow us to avoid this code duplication
+                    string name = data[0];
+                    string ageStr = data[1];
+                    if (!Person.IsNameValid(name, out string errorName))
+                    {
+                        errorsList.Add($"{errorName} (line {i + 1})");
+                        continue;
+                    }
+                    int.TryParse(ageStr, out int age);
+                    if (!Person.IsAgeValid(age, out string errorAge))
+                    {
+                        errorsList.Add($"{errorAge} (line {i + 1})");
+                        continue;
+                    }
+                    peopleList.Add(new Person(name, age));
+                }
+                if (errorsList.Count != 0)
+                {
+                    string allErrors = String.Join("\n", errorsList);
+                    MessageBox.Show(this, $"Warning: some lines were ignored due to {errorsList.Count} errors:\n" + allErrors, "Data errors", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+            }
+            catch (Exception ex) when (ex is IOException || ex is SystemException)
+            {
+                MessageBox.Show(this, "Error reading from file\n" + ex.Message, "File access error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
     }
 }
-
