@@ -1,0 +1,42 @@
+﻿<Window x:Class="Travel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:Travel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="838">
+    <Grid Height="430" VerticalAlignment="Top" Margin="0,0,0,0">
+        <ListView Name="LvTrips"  Margin="25,60,350,40" SelectionChanged="LvTrips_SelectionChanged" SelectionMode="Multiple"
+                 BorderBrush="#FF8994A7">
+            <ListView.Resources>
+                <Style TargetType="TextBlock">
+                    <Setter Property="TextWrapping" Value="Wrap"/>
+                </Style>
+            </ListView.Resources>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" Width="150"  DisplayMemberBinding="{Binding  TravellerName}" />
+                    <GridViewColumn Header="To" Width="150" DisplayMemberBinding="{Binding Destination}" />
+                    <GridViewColumn Header="on Date" Width="150" DisplayMemberBinding="{Binding DepartureDate, StringFormat='\d'}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Destination" HorizontalAlignment="Left" Margin="520,70,0,0" VerticalAlignment="Top" Width="80" Height="30"/>
+        <TextBox Name="DestinationInput" VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="600,70,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="30" />
+        <Label Content="Name:" HorizontalAlignment="Left" Margin="520,110,0,0" VerticalAlignment="Top" Width="80" Height="30"/>
+        <TextBox x:Name="NameInput" VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="600,110,0,0"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="30" />
+        <Label Content="PassportNo:" HorizontalAlignment="Left" Margin="520,150,0,0" VerticalAlignment="Top" Width="80" Height="30"/>
+        <TextBox x:Name="PassportNoInput" VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="600,150,0,0"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="30" />
+        <Label Content="DepartureDate:" HorizontalAlignment="Left" Margin="520,200,0,0" VerticalAlignment="Top" Width="66" Height="30" RenderTransformOrigin="-1.649,2.675"/>
+        <DatePicker Name="DepartureDate" SelectedDate="{x:Static sys:DateTime.Now}" HorizontalAlignment="Left" Margin="600,200,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="ReturnDate:" HorizontalAlignment="Left" Margin="520,250,0,0" VerticalAlignment="Top" Width="80" Height="30" RenderTransformOrigin="-1.649,2.675"/>
+        <DatePicker Name="ReturnDate" SelectedDate="{x:Static sys:DateTime.Now}" HorizontalAlignment="Left" Margin="600,250,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Button Name="BtnAdd" Content="Add Trip" HorizontalAlignment="Left" Margin="500,358,0,0" VerticalAlignment="Top" Width="80" Height="30" Click="BtnAdd_Click" />
+        <Button Name="BtnDelete" IsEnabled="False" Content="Delete Trip" HorizontalAlignment="Left" Margin="610,358,0,0" VerticalAlignment="Top" Width="80" Height="30" Click="BtnDelete_Click" />
+        <Button Name="BtnUpdate" IsEnabled="False" Content="Update Trip" HorizontalAlignment="Left" Margin="720,358,0,0" VerticalAlignment="Top" Width="80" Height="30" Click="BtnUpdate_Click" />
+        <Button Name="SaveSelected" Content="Save Selected" HorizontalAlignment="Left" Margin="25,10,0,0" VerticalAlignment="Top" Height="30" Width="200" Click="SaveSelected_Click"  />
+
+    </Grid>
+</Window>
