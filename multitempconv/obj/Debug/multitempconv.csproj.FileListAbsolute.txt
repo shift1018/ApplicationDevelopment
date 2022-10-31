@@ -1,0 +1,16 @@
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\bin\Debug\multitempconv.exe.config
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\bin\Debug\multitempconv.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\bin\Debug\multitempconv.pdb
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\obj\Debug\multitempconv.csproj.AssemblyReference.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\obj\Debug\multitempconv.csproj.SuggestedBindingRedirects.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\obj\Debug\MainWindow.g.cs
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\obj\Debug\App.g.cs
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\obj\Debug\multitempconv_MarkupCompile.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\obj\Debug\multitempconv_MarkupCompile.lref
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\obj\Debug\MainWindow.baml
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\obj\Debug\multitempconv.g.resources
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\obj\Debug\multitempconv.Properties.Resources.resources
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\obj\Debug\multitempconv.csproj.GenerateResource.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\obj\Debug\multitempconv.csproj.CoreCompileInputs.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\obj\Debug\multitempconv.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\multitempconv\obj\Debug\multitempconv.pdb

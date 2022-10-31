@@ -1,0 +1,13 @@
+C:\Users\shift\OneDrive\文档\GitHub\AppDev\ApplicationDevelopment\Day05FirstEFConsole\Day05FirstEFConsole\obj\Debug\Day05FirstEFConsole.csproj.AssemblyReference.cache
+C:\Users\shift\OneDrive\文档\GitHub\AppDev\ApplicationDevelopment\Day05FirstEFConsole\Day05FirstEFConsole\obj\Debug\Day05FirstEFConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\shift\OneDrive\文档\GitHub\AppDev\ApplicationDevelopment\Day05FirstEFConsole\Day05FirstEFConsole\obj\Debug\Day05FirstEFConsole.csproj.CoreCompileInputs.cache
+C:\Users\shift\OneDrive\文档\GitHub\AppDev\ApplicationDevelopment\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\Day05FirstEFConsole.exe.config
+C:\Users\shift\OneDrive\文档\GitHub\AppDev\ApplicationDevelopment\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\Day05FirstEFConsole.exe
+C:\Users\shift\OneDrive\文档\GitHub\AppDev\ApplicationDevelopment\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\Day05FirstEFConsole.pdb
+C:\Users\shift\OneDrive\文档\GitHub\AppDev\ApplicationDevelopment\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\EntityFramework.dll
+C:\Users\shift\OneDrive\文档\GitHub\AppDev\ApplicationDevelopment\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shift\OneDrive\文档\GitHub\AppDev\ApplicationDevelopment\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\EntityFramework.xml
+C:\Users\shift\OneDrive\文档\GitHub\AppDev\ApplicationDevelopment\Day05FirstEFConsole\Day05FirstEFConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shift\OneDrive\文档\GitHub\AppDev\ApplicationDevelopment\Day05FirstEFConsole\Day05FirstEFConsole\obj\Debug\Day05FirstEFConsole.csproj.CopyComplete
+C:\Users\shift\OneDrive\文档\GitHub\AppDev\ApplicationDevelopment\Day05FirstEFConsole\Day05FirstEFConsole\obj\Debug\Day05FirstEFConsole.exe
+C:\Users\shift\OneDrive\文档\GitHub\AppDev\ApplicationDevelopment\Day05FirstEFConsole\Day05FirstEFConsole\obj\Debug\Day05FirstEFConsole.pdb

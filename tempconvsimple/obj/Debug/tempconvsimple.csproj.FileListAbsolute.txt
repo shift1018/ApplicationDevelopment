@@ -1,0 +1,16 @@
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\bin\Debug\tempconvsimple.exe.config
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\bin\Debug\tempconvsimple.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\bin\Debug\tempconvsimple.pdb
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\obj\Debug\tempconvsimple.csproj.AssemblyReference.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\obj\Debug\tempconvsimple.csproj.SuggestedBindingRedirects.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\obj\Debug\MainWindow.g.cs
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\obj\Debug\App.g.cs
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\obj\Debug\tempconvsimple_MarkupCompile.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\obj\Debug\tempconvsimple_MarkupCompile.lref
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\obj\Debug\MainWindow.baml
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\obj\Debug\tempconvsimple.g.resources
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\obj\Debug\tempconvsimple.Properties.Resources.resources
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\obj\Debug\tempconvsimple.csproj.GenerateResource.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\obj\Debug\tempconvsimple.csproj.CoreCompileInputs.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\obj\Debug\tempconvsimple.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\tempconvsimple\obj\Debug\tempconvsimple.pdb

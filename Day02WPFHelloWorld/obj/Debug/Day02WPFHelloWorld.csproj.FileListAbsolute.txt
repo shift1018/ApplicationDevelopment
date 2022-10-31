@@ -1,0 +1,16 @@
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\bin\Debug\Day02WPFHelloWorld.exe.config
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\bin\Debug\Day02WPFHelloWorld.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\bin\Debug\Day02WPFHelloWorld.pdb
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\obj\Debug\Day02WPFHelloWorld.csproj.AssemblyReference.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\obj\Debug\Day02WPFHelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\obj\Debug\App.g.cs
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\obj\Debug\Day02WPFHelloWorld_MarkupCompile.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\obj\Debug\Day02WPFHelloWorld_MarkupCompile.lref
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\obj\Debug\MainWindow.baml
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\obj\Debug\Day02WPFHelloWorld.g.resources
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\obj\Debug\Day02WPFHelloWorld.Properties.Resources.resources
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\obj\Debug\Day02WPFHelloWorld.csproj.GenerateResource.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\obj\Debug\Day02WPFHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\obj\Debug\Day02WPFHelloWorld.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day02WPFHelloWorld\obj\Debug\Day02WPFHelloWorld.pdb

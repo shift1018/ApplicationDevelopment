@@ -1,0 +1,8 @@
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01ArraysAndLists\bin\Debug\Day01ArraysAndLists.exe.config
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01ArraysAndLists\bin\Debug\Day01ArraysAndLists.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01ArraysAndLists\bin\Debug\Day01ArraysAndLists.pdb
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01ArraysAndLists\obj\Debug\Day01ArraysAndLists.csproj.AssemblyReference.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01ArraysAndLists\obj\Debug\Day01ArraysAndLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01ArraysAndLists\obj\Debug\Day01ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01ArraysAndLists\obj\Debug\Day01ArraysAndLists.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01ArraysAndLists\obj\Debug\Day01ArraysAndLists.pdb

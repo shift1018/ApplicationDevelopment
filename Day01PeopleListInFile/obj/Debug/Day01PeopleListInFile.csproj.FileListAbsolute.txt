@@ -1,0 +1,8 @@
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01PeopleListInFile\bin\Debug\Day01PeopleListInFile.exe.config
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01PeopleListInFile\bin\Debug\Day01PeopleListInFile.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01PeopleListInFile\bin\Debug\Day01PeopleListInFile.pdb
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01PeopleListInFile\obj\Debug\Day01PeopleListInFile.csproj.AssemblyReference.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01PeopleListInFile\obj\Debug\Day01PeopleListInFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01PeopleListInFile\obj\Debug\Day01PeopleListInFile.csproj.CoreCompileInputs.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01PeopleListInFile\obj\Debug\Day01PeopleListInFile.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01PeopleListInFile\obj\Debug\Day01PeopleListInFile.pdb

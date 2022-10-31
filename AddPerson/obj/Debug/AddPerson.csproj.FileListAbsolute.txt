@@ -1,0 +1,16 @@
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\bin\Debug\AddPerson.exe.config
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\bin\Debug\AddPerson.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\bin\Debug\AddPerson.pdb
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\obj\Debug\AddPerson.csproj.AssemblyReference.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\obj\Debug\AddPerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\obj\Debug\MainWindow.g.cs
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\obj\Debug\App.g.cs
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\obj\Debug\AddPerson_MarkupCompile.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\obj\Debug\AddPerson_MarkupCompile.lref
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\obj\Debug\MainWindow.baml
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\obj\Debug\AddPerson.g.resources
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\obj\Debug\AddPerson.Properties.Resources.resources
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\obj\Debug\AddPerson.csproj.GenerateResource.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\obj\Debug\AddPerson.csproj.CoreCompileInputs.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\obj\Debug\AddPerson.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\AddPerson\obj\Debug\AddPerson.pdb

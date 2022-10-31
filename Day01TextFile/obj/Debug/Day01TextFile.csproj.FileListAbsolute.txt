@@ -1,0 +1,8 @@
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01TextFile\bin\Debug\Day01TextFile.exe.config
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01TextFile\bin\Debug\Day01TextFile.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01TextFile\bin\Debug\Day01TextFile.pdb
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01TextFile\obj\Debug\Day01TextFile.csproj.AssemblyReference.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01TextFile\obj\Debug\Day01TextFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01TextFile\obj\Debug\Day01TextFile.csproj.CoreCompileInputs.cache
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01TextFile\obj\Debug\Day01TextFile.exe
+C:\Users\shift\Documents\GitHub\AppDev\ApplicationDevelopment\Day01TextFile\obj\Debug\Day01TextFile.pdb
