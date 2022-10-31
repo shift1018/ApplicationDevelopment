@@ -1,0 +1,162 @@
+<< current date goes here >>
+1. What I have done / not done since last Scrum?
+2. What I plan to do from this scrum to next? (next 24 hours)
+3. Where do I need assistance? What do I need to figure out?
+
+2022/10/13 Anton
+1. Done / not done since last scrum:
+- finalized project proposal
+2. To do until next Scrum:
+- set up the GitHub repository for the project
+- define user stories for the trello board
+- setup the database
+3. Need assistance / figure things out
+
+2022/10/13 Xin Shi
+1. Done / not done since last scrum:
+- created Azure data 
+- created project model
+2. To do until next Scrum:
+- start building project 
+- Github initialization
+- create Azure blog storage
+3. Need assistance / figure things out
+- could have try move data to azure database.
+
+
+2022/10/13 Alex
+1. Done / not done since last scrum:
+- Researched c# .Net furniture project specifications and material design. 
+2. To do until next Scrum:
+- start building project 
+- Trello 
+- Github initialization
+3. Need assistance / figure things out
+- material design
+- BLOB image storage
+- textarea data type vs string 
+
+2022/10/15 Alex
+1. Done / not done since last scrum:
+- Helped install Database First entity framework and helped build database
+- Installed Material Design and researched use
+2. To do until next Scrum:
+- start building homepage in material design 
+3. Need assistance / figure things out
+- material design further integration
+- BLOB image storage
+- textarea data type vs string 
+
+2022/10/17 XinShi
+1. Done / not done since last scrum:
+- Helped install Database First entity framework 
+- Installed the Azure container blob
+- Installed Material Design and researched use
+2. To do until next Scrum:
+-  Material Design has something wrong, to fix it today
+-  Continue building logig page
+3. Need assistance / figure things out
+- material design further integration
+- BLOB image storage
+- textarea data type vs string 
+
+2022/10/17 Alex
+1. Done / not done since last scrum:
+- Started Homepage created desing and buttons for categories
+2. To do until next Scrum:
+- start building products custom dialogue and code
+3. Need assistance / figure things out
+- material design further integration
+- BLOB image storage
+- textarea data type vs string 
+
+2022/10/17 Anton
+1. Done / not done since last scrum:
+- setup the database
+- defined user stories for the trello board
+- set up the GitHub repository for the project
+2. To do until next Scrum:
+ - create custom dialogue "Customers"
+3. Need assistance / figure things out
+-
+
+2022/10/18 Alex
+1. Done / not done since last scrum:
+- Started Products view list page and add/edit products
+2. To do until next Scrum:
+- Finish Products view list page and add/edit products
+- Start work collaborating on orders
+3. Need assistance / figure things out
+- BLOB image storage
+- Roles user and admin
+
+
+2022/10/18 XinShi
+1. Done / not done since last scrum:
+- Done with the login page; 
+- Finished the Material design
+- Designed the register page
+2.To do until next Scrum:
+- Continue the code about the register.
+- Fix the login page errormessage box
+3.Need assistance / figure things out
+- Pass the data from the login page to home page
+- textarea data type vs string 
+
+2022/10/18 Anton
+1. Done / not done since last scrum:
+ - create custom dialog "Customers"
+2. To do until next Scrum:
+ - create custom dialog "AddCustomer"
+ - create custom dialog "UpdateCustomer"
+ - implement "Delete Customer" in customer dialog
+3. Need assistance / figure things out
+
+2022/10/19 Alex
+1. Done / not done since last scrum:
+- Finished Products view list page and add/edit products
+- Helped solve Register customer bug
+- Researched and tried implementing save image to uri
+2. To do until next Scrum:
+- Finish uploading and storing image
+- work collaborating on orders
+- finalize/align all design elements
+3. Need assistance / figure things out
+- image file storage in wpf
+- Roles user and admin
+- joint queries in wpf
+
+2022/10/19 Anton
+1. Done / not done since last scrum:
+ - created custom dialog "AddCustomer"
+ - created custom dialog "UpdateCustomer""
+ - added Search option for customer listview
+ - implemented "Delete Customer" in customer dialog
+2. To do until next Scrum:
+ - create order dialog
+ - create add order dialog
+ - create add items to order dialog
+3. Need assistance / figure things out
+- joined queries
+
+2022/10/20 Alex
+1. Done / not done since last scrum:
+- Helped finish loading and displaying images from DB
+- cleaned up design and verified and fixed bugs
+2. To do until next Scrum:
+3. Need assistance / figure things out
+
+2022/10/20 Anton
+1. Done / not done since last scrum:
+ - Improved functionality and fixed bugs in Orders system
+2. To do until next Scrum:
+3. Need assistance / figure things out
+
+2022/10/20 Xin
+1. Done / not done since last scrum:
+- Helped finish loading and displaying images from DB
+- Helped improve functionality of order system
+2. To do until next Scrum:
+3. Need assistance / figure things out
+
+
